@@ -1,1 +1,2 @@
 hello
+added using git-add command, not committed yet
