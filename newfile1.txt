@@ -1,1 +1,3 @@
 hi
+checking for diff output with edited file, untracked
+checking for commit -a option
